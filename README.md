@@ -1,4 +1,6 @@
-# Tiva C Series Launchpad (TM4C123G) driver for nRF24L01 2.4GHz Wireless Transceivers. This library is currently a rough library port of maniacbug's RF24 library here:
+# Tiva C Series Launchpad (TM4C123G) driver for nRF24L01 2.4GHz Wireless Transceivers. 
+
+This library is currently a rough library port of maniacbug's RF24 library here:
 
 https://github.com/maniacbug/RF24
 
